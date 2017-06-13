@@ -29,5 +29,16 @@
       "id": 10
     }
   ],
-  "Departments": []
+  "Departments": [
+    {
+      "firstName": "first1",
+      "lastName": "last2",
+      "id": 1
+    },
+    {
+      "firstName": "first2",
+      "lastName": "last2",
+      "id": 2
+    }
+  ]
 }
