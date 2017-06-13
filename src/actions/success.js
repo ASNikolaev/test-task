@@ -26,7 +26,6 @@ export const newEmployeesSuccess = (Employee) => {
 }
 
 export const deleteEmployeesSuccess = (id) => {
-  alert('+')
   return {type: DELETE_EMPLOYEES, id}
 }
 
